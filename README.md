@@ -2,9 +2,7 @@
 
 This AIM of this repository is to make the create an application using Deep Learning based Object Detection using YOLOv3 with OpenCV
 
-YOLO trained on the COCO dataset. The COCO dataset consists of 80 labels. You can fetch the weights from the link below (beacause of the large size i did not uplaod here)
-
-https://github.com/pjreddie/darknet/blob/master/data/coco.names
+YOLO trained on the COCO dataset. The COCO dataset consists of 80 labels.
 
 ### Dependencies
 <ul>
@@ -15,6 +13,15 @@ https://github.com/pjreddie/darknet/blob/master/data/coco.names
         <a href="https://opencv.org/" >OpenCV</a>
     </li>
 </ul>
+
+You also need to download the `yolo.weights` file and place it as described below :
+
+You can download the weights by - 
+```
+    $ wget https://pjreddie.com/media/files/yolov3.weights
+    or 
+    https://github.com/pjreddie/darknet/blob/master/data/coco.names
+```
 
 The directories structure should as follow:
 
