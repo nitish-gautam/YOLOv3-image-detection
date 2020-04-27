@@ -5,6 +5,7 @@ This AIM of this repository is to make the create an application using Deep Lear
 YOLO trained on the COCO dataset. The COCO dataset consists of 80 labels. You can fetch the weights from the link below (beacause of the large size i did not uplaod here)
 
 https://github.com/pjreddie/darknet/blob/master/data/coco.names
+
 https://pjreddie.com/darknet/yolo/
 
 The directories structure should as follow:
