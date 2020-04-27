@@ -16,10 +16,7 @@ images/
  : This folder should contain static images which we will be used to perform object detection on for testing and evaluation purposes.
 
 videos/
- : This directory should contains sample test videos for testing. After performing object detection with YOLO on video, we’ll process videos in real time camera input. 
-
-output/
- : Output videos that have been processed by YOLO and annotated with bounding boxes and class names will appear at this location.
+ : This directory should contains sample test videos for testing. After performing object detection with YOLO on video, we’ll process videos in real time camera input. Also, Output videos that have been processed by YOLO and annotated with bounding boxes and class names will appear at this location
 
 # RESULT
 ![image](https://user-images.githubusercontent.com/46977634/80388315-a5250380-88a1-11ea-9a87-163e2fdd57c6.png)
